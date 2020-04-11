@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-data-types-and-objec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-numbers-and-dates", "csharp-numbers-and-dates\csharp-numbers-and-dates.csproj", "{D044F521-6AE6-4F87-B012-6BCC45CB1579}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "string-formatting-tips", "string-formatting-tips\string-formatting-tips.csproj", "{DC0C6FC7-B680-49B5-AB96-19E9A84AE55C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D044F521-6AE6-4F87-B012-6BCC45CB1579}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D044F521-6AE6-4F87-B012-6BCC45CB1579}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D044F521-6AE6-4F87-B012-6BCC45CB1579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC0C6FC7-B680-49B5-AB96-19E9A84AE55C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC0C6FC7-B680-49B5-AB96-19E9A84AE55C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC0C6FC7-B680-49B5-AB96-19E9A84AE55C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC0C6FC7-B680-49B5-AB96-19E9A84AE55C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
